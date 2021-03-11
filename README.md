@@ -1,1 +1,1 @@
-# Pet-game2
+# pet-game
